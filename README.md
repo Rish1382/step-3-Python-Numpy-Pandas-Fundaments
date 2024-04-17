@@ -6,7 +6,7 @@
 
 2.Boolean Indexing with NumPy[Link](https://github.com/Rish1382/step-3-Python-Numpy-Pandas-Fundaments/blob/main/2.Boolean%20Indexing%20with%20NumPy.ipynb)
 
-2.boolean-indexing-with-numpy-takeaways[Link])(https://github.com/Rish1382/step-3-Python-Numpy-Pandas-Fundaments/blob/main/2.boolean-indexing-with-numpy-takeaways.pdf)
+2.boolean-indexing-with-numpy-takeaways[Link](https://github.com/Rish1382/step-3-Python-Numpy-Pandas-Fundaments/blob/main/2.boolean-indexing-with-numpy-takeaways.pdf)
 
 2.boolean_indexing_with_numpy.tx[Link](https://github.com/Rish1382/step-3-Python-Numpy-Pandas-Fundaments/blob/main/2.boolean_indexing_with_numpy.txt)
 
